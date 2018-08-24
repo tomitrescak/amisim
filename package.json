@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+    "finalhandler": "^1.1.1",
+    "serve-static": "^1.13.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node dev.js"
+  }
+}
